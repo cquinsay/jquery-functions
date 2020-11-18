@@ -1,0 +1,35 @@
+.container{
+    width: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    background-color: rgb(26, 105, 196);
+}
+#frenchie{
+    width: 400px;
+    
+}
+.click{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+img{
+    width: 200px;
+}
+#here-i-am{
+    margin-left: 500px;
+}
+.hide-and-seek{
+    background-color: white;
+    width: 900px;
+    height: 300px;
+}
+.hide-and-seek button{
+    display: block;
+    
+}
+.hide-and-seek h3{
+    margin-left: 550px;
+}
